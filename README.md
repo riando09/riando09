@@ -15,6 +15,3 @@ I'm a student in computer science and networks, based in Mirepoix. I'm a develop
 </p>
 
 ## About me
-
-| - 🧑‍🎓 Students<br>- 👨🖥️ Dev<br>- 🤓 Geek | ![Image](https://img.freepik.com/photos-gratuite/contexte-programmation-personne-travaillant-codes-ordinateur_23-2150010125.jpg?t=st=1716637975~exp=1716641575~hmac=18bea327c1b89328d017ada7dbb56769f43953aebca3db18c073948239637613&w=1380) |
-| ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
