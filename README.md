@@ -18,7 +18,6 @@ Currently, I am:
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python" />
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square" alt="Node.js" />
   <img src="https://img.shields.io/badge/-Unreal_Engine-313131?logo=unrealengine&logoColor=white&style=flat-square" alt="Unreal Engine" />
-  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square" alt="Flutter" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" alt="MySQL" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square" alt="Linux" />
   <img src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square" alt="VS Code" />
@@ -27,12 +26,8 @@ Currently, I am:
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-Python-yellow?logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
+![Statistiques GitHub de riando09](https://github-readme-stats.vercel.app/api?username=riando09&show_icons=true&theme=radical)
+
 
 ---
 
@@ -50,6 +45,3 @@ I'm always open to collaborating on new projects and sharing ideas. Feel free to
 ## ✨ Projects
 - **[Celestial Survivor](#)**: My current project, a survival video game developed in Unreal Engine.
 - **[Drill Hosting](https://drillhosting.com)**: My hosting service offering high-quality, reliable hosting solutions.
-- **[Other Project](#)**: Description of another project you're proud of.
-
-Check out my repositories to learn more about what I’ve been working on. 🚀
