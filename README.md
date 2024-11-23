@@ -5,7 +5,7 @@ Welcome to my GitHub profile! 🎉
 I'm a student in **Computer Science** at CNAM, pursuing my Bachelor's degree in Toulouse, France. I focus on **web development**, **video game development**, and have expertise in **server administration** and **hosting**. 
 
 Currently, I am:
-- Developing an exciting project: **a 3D survival video game** using **Unreal Engine**. 
+- Developing an exciting project: **Celestial Survivor** using **Unreal Engine**. 
 - Running my own hosting service: [Drill Hosting](https://drillhosting.com), offering reliable and scalable hosting solutions.
 
 ---
@@ -28,8 +28,10 @@ Currently, I am:
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dorian-Dejean&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dorian-Dejean&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+  <img src="https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-Python-yellow?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
 ---
@@ -38,12 +40,6 @@ Currently, I am:
 I'm always open to collaborating on new projects and sharing ideas. Feel free to connect with me!
 
 <p>
-  <a href="https://www.linkedin.com/in/dorian-dejean-810834293" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" />
-  </a>
-  <a href="mailto:dorian.dejean@example.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" />
-  </a>
   <a href="https://drillhosting.com" target="_blank">
     <img src="https://img.shields.io/badge/-Drill%20Hosting-FF5722?logo=googlecloud&logoColor=white&style=flat-square" alt="Drill Hosting" />
   </a>
@@ -52,7 +48,7 @@ I'm always open to collaborating on new projects and sharing ideas. Feel free to
 ---
 
 ## ✨ Projects
-- **[3D Survival Game](#)**: My current project, a survival video game developed in Unreal Engine.
+- **[Celestial Survivor](#)**: My current project, a survival video game developed in Unreal Engine.
 - **[Drill Hosting](https://drillhosting.com)**: My hosting service offering high-quality, reliable hosting solutions.
 - **[Other Project](#)**: Description of another project you're proud of.
 
