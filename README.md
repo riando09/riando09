@@ -2,7 +2,11 @@
 
 Welcome to my GitHub profile! 🎉
 
-I'm a student specializing in **Computer Science and Networks**, based in Mirepoix, France. I focus on **web development**, **video game development**, and have expertise in **server administration** and **hosting**. My passion lies in creating efficient, scalable, and modern solutions for various projects.
+I'm a student in **Computer Science** at CNAM, pursuing my Bachelor's degree in Toulouse, France. I focus on **web development**, **video game development**, and have expertise in **server administration** and **hosting**. 
+
+Currently, I am:
+- Developing an exciting project: **a 3D survival video game** using **Unreal Engine**. 
+- Running my own hosting service: [Drill Hosting](https://drillhosting.com), offering reliable and scalable hosting solutions.
 
 ---
 
@@ -13,6 +17,7 @@ I'm a student specializing in **Computer Science and Networks**, based in Mirepo
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python" />
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Unreal_Engine-313131?logo=unrealengine&logoColor=white&style=flat-square" alt="Unreal Engine" />
   <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square" alt="Flutter" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" alt="MySQL" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square" alt="Linux" />
@@ -39,12 +44,16 @@ I'm always open to collaborating on new projects and sharing ideas. Feel free to
   <a href="mailto:dorian.dejean@example.com">
     <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" />
   </a>
+  <a href="https://drillhosting.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Drill%20Hosting-FF5722?logo=googlecloud&logoColor=white&style=flat-square" alt="Drill Hosting" />
+  </a>
 </p>
 
 ---
 
 ## ✨ Projects
-- **[Project 1](#)**: Description of your project with key features.
-- **[Project 2](#)**: Description of another project you're proud of.
+- **[3D Survival Game](#)**: My current project, a survival video game developed in Unreal Engine.
+- **[Drill Hosting](https://drillhosting.com)**: My hosting service offering high-quality, reliable hosting solutions.
+- **[Other Project](#)**: Description of another project you're proud of.
 
 Check out my repositories to learn more about what I’ve been working on. 🚀
